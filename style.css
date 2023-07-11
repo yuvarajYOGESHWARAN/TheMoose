@@ -1,0 +1,31 @@
+body {
+    background-color: #bff5fa;
+    margin-left : 25%;
+}
+/* .heading_child{
+    
+} */
+.border_child {
+    border:2px solid #6ebb6e;
+    padding: 10px;
+    margin-right : 25%;
+    color : white;
+    font-size : 18px;
+    background-color:   #6ebb6e;
+}
+.para_child {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.page_child{
+    color: #8c40a5;
+}
+.list_child{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+.button_child {
+    float: right;
+    padding: 8px;
+    background-color: #6ebb6e;
+    border: 5px solid rgb(197, 189, 189);
+}
